@@ -1,0 +1,18 @@
+name = "JETFilter"
+uuid = "12962a57-6229-4c67-a911-6cd02b0db42d"
+authors = ["icarus "]
+version = "0.1.0"
+
+[deps]
+Accessors = "7d9f7c33-5ae7-4f3b-8dc6-eff91059b697"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+JET = "c3a54625-cd67-489e-a8e7-0a5a0ff4e31b"
+JETFilterInCodeMarkers = "9d446262-62bf-45ef-81d9-a694d65da0dd"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+MethodAnalysis = "85b6ec6f-f7df-4429-9514-a64bcd9ee824"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+tests = "291bd43b-871d-4aba-b506-c4bf2504518d"
+
+[compat]
+JET = "=0.6.16"
